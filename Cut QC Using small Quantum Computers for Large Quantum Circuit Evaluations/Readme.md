@@ -2,7 +2,7 @@
 
 1. Read the paper [here](https://arxiv.org/abs/2012.02333)
 
-2. Read the notes [here]()
+2. Read the notes [here](https://github.com/MonitSharma/Quantum-Papers-Explained-with-Code/blob/main/Cut%20QC%20Using%20small%20Quantum%20Computers%20for%20Large%20Quantum%20Circuit%20Evaluations/Cut%20Quantum%20Circuit.pdf)
 
 3. Look at the slides [here](https://github.com/MonitSharma/Quantum-Papers-Explained-with-Code/blob/main/Cut%20QC%20Using%20small%20Quantum%20Computers%20for%20Large%20Quantum%20Circuit%20Evaluations/cutQC%20slides.pptx)
 
